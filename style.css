@@ -4,7 +4,6 @@
     width: 800px;
     margin: 40px auto;
 }
-
 .key {
     width: 100px;
     height: 300px;
@@ -17,7 +16,6 @@
     font-size: 24px;
     cursor: pointer;
 }
-
 .key:hover {
     background-color: #ccc;
 }
